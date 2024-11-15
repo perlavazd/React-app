@@ -1,0 +1,21 @@
+body{
+    background-color: #F3F3E0;
+}
+
+.astros-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.astro-card{
+    border: 5px solid #608BC1;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px; 
+    background-color: #CBDCEB;
+    width: 200px;
+}
+
+.astros-title{
+    margin-top: 100px;
+}

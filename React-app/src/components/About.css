@@ -1,0 +1,23 @@
+
+.about-title{
+    text-align: center;
+}
+
+.about-card{
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: justify;
+   
+}
+
+.about-content{
+    display: flex;
+}
+
+.about-descr{
+    padding: 10px;
+}
+
+a{
+    color:#608BC1;
+}

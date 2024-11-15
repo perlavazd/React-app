@@ -1,0 +1,26 @@
+h1{
+    font-size: 2.5 rem;
+    margin: 2px;
+    background: -webkit-linear-gradient(#024caa, #ec8305);
+    background-clip:text;
+    -webkit-text-fill-color: transparent;
+}
+
+nav{
+    background-color: #133E87;  
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding-bottom: 20px;  
+}
+   
+.nav-btn{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+    
+a {
+    color:#F3F3E0;
+    font-weight: bolder;
+}
